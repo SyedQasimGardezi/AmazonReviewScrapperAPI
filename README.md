@@ -43,8 +43,8 @@ Extract comprehensive review data including:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/amazon-review-scraper-api.git
-cd amazon-review-scraper-api
+git clone https://github.com/SyedQasimGardezi/AmazonReviewScrapperAPI.git
+cd AmazonReviewScrapperAPI
 
 # Create virtual environment
 python -m venv venv
@@ -335,10 +335,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 📧 Email: your-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/amazon-review-scraper-api/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/amazon-review-scraper-api/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/SyedQasimGardezi/AmazonReviewScrapperAPI/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/SyedQasimGardezi/AmazonReviewScrapperAPI/discussions)
 
 ---
 
-⭐ **Star this repository if you find it helpful!**#   A m a z o n R e v i e w S c r a p p e r A P I  
- 
+⭐ **Star this repository if you find it helpful!**
