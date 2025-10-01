@@ -332,12 +332,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Flask](https://flask.palletsprojects.com/) for the web framework
 - Amazon for providing the review data (please respect their Terms of Service)
 
-## 📞 Support
-
-- 📧 Email: your-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/SyedQasimGardezi/AmazonReviewScrapperAPI/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/SyedQasimGardezi/AmazonReviewScrapperAPI/discussions)
-
----
-
 ⭐ **Star this repository if you find it helpful!**
